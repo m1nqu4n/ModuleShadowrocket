@@ -1,5 +1,5 @@
 #!name=Minh Quan
-#!desc=Locket Gold
+#!desc=All in One
 
 [Script]
 locketgold = type=http-response, pattern=^https:\/\/api\.revenuecat\.com\/.+\/(receipts$|subscribers\/[^/]+$),script-path=https://raw.githubusercontent.com/m1nqu4n/ModuleShadowrocket/refs/heads/main/Script/locketgold.js,requires-body=true,max-size=-1,timeout=120
