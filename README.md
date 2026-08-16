@@ -1,6 +1,6 @@
 <div align="center">
 
-# Locket Gold Module For Shadowrocket
+# All in One Module For Shadowrocket
 
 Module cấu hình dành cho **Shadowrocket**, được chia sẻ nhằm mục đích nghiên cứu và tham khảo cách quản lý cấu hình kết nối trên thiết bị iOS.
 
@@ -21,7 +21,7 @@ Module cấu hình dành cho **Shadowrocket**, được chia sẻ nhằm mục �
 ## 🧑‍💻 Cách sử dụng
 
 * Thêm link module vào shadowrocket
-* Muốn không mất gold khi tắt shadowrocket thì bạn dùng NextDNS: Tạo tài khoản, thêm **revenuecat.com** vào Denylist rồi tải về hồ sơ DNS (**vẫn bật shadowrocket khi up gold + setup dns**). Sau đó bạn có thể tắt shadowrocket và trải nghiệm.
+* Đối với LocketGold -> Muốn không mất gold khi tắt shadowrocket thì bạn dùng NextDNS: Tạo tài khoản, thêm **revenuecat.com** vào Denylist rồi tải về hồ sơ DNS (**vẫn bật shadowrocket khi up gold + setup dns**). Sau đó bạn có thể tắt shadowrocket và trải nghiệm.
 
 ## 📌Thông tin dự án
 
