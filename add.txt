@@ -1,2 +1,3 @@
 In development: 
 - Adding 30s video + locket gold badge (google firebase)
+type=http-response, pattern=^https:\/\/firebaseremoteconfig\.googleapis\.com\/v1\/projects\/locket-4252a\/.+, script-path= , requires-body=true, max-size=-1, timeout=60
