@@ -1,0 +1,2 @@
+In development: 
+- Adding 30s video + locket gold badge (google firebase)
