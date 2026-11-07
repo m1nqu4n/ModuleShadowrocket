@@ -1,3 +1,4 @@
+// Idea: @duyvinh09
 var ua = $request.headers["User-Agent"] || $request.headers["user-agent"] || '';
 var obj = JSON.parse($response.body);
 if (ua.includes("Locket")) {
